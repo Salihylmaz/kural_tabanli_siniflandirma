@@ -1,0 +1,1 @@
+Muill veri bilimi kursunun son proje ödevi. Bu projede persona.csv dosyasından aldığım bilgileri benden istenen şekilde tablo işlemleri yaptık. Veri Biliminde kullanılan genel işlemleri yapmış bulundum.
